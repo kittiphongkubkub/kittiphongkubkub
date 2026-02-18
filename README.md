@@ -1,9 +1,9 @@
-<h1 align="center">Hi I'm Kittiphong Toadonthong</h1>
-<h3 align="center">Computer Science Student | Web Developer | IoT Enthusiast</h3>
+<h1 align="center">Hi  I'm Kittiphong Toadonthong</h1>
+<h3 align="center">Computer Science Student | Aspiring Full-Stack Developer | IoT Enthusiast</h3>
 
 <p align="center">
-  Huachiew Chalermprakiet University <br>
-  Faculty of Science and Technology
+    Huachiew Chalermprakiet University <br>
+    Faculty of Science and Technology | Year 3
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Responsive tourism platform (Bootstrap-based)
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=tokyonight" />
