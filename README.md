@@ -23,7 +23,7 @@
 
 ##  Featured Projects
 
-###  FixMyCar
+###  HELP ME CAR
 On-demand mechanic service web application  
 - Role-based system (User / Mechanic / Admin)  
 - Service workflow management  
@@ -88,15 +88,6 @@ Responsive tourism platform (Bootstrap-based)
 ### Startup Thailand League 2026
 <p align="center">
   <img src="image/2026.jpg" width="500" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittiphongkubkub&layout=compact&theme=tokyonight" />
 </p>
 
 ---
