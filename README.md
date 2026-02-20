@@ -78,17 +78,10 @@ Responsive tourism platform (Bootstrap-based)
 
 ---
 
-## 💪 My Activities
+## Certificates-Competitions-Activities
 
-### Startup Thailand League 2025
-<p align="center">
-  <img src="image/2025.jpg" width="500" />
-</p>
+🔗 [Certificates-Competitions-Activities](https://kittiphongkubkub.github.io/Certificates-Competitions-Activities/)
 
-### Startup Thailand League 2026
-<p align="center">
-  <img src="image/2026.jpg" width="500" />
-</p>
 
 ---
 
