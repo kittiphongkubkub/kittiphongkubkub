@@ -1,154 +1,95 @@
-<h1 align="center">Hi 👋 I'm Kittiphong Toadonthong</h1>
+<h1 align="center">Hi  I'm Kittiphong Toadonthong</h1>
 <h3 align="center">Computer Science Student | Aspiring Full-Stack Developer | IoT Enthusiast</h3>
 
 <p align="center">
-🎓 Huachiew Chalermprakiet University <br>
-Faculty of Science and Technology | Computer Science (Year 3)
+    Huachiew Chalermprakiet University <br>
+    Faculty of Science and Technology | Year 3
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kittiphongkubkub&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kittiphongkubkub&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+##  About Me
 
-💡 I am a Computer Science student passionate about building **real-world web applications and digital systems**.  
-I enjoy designing systems from **problem analysis → system architecture → implementation**.
-
-My interests include **Full-Stack Development, IoT Integration, and Smart Systems**.
-
-🎮 My mindset is influenced by gaming logic:
-
-**Analyze → Optimize → Improve**
+-  Passionate about building real-world web applications  
+-  Interested in Full-Stack Development & IoT Integration  
+-  Strong in system thinking & structured development  
+-  Gamer mindset: Analyze → Optimize → Improve  
 
 ---
 
-# 🚀 Featured Projects
+##  Featured Projects
 
-## 🔧 HELP ME CAR
-On-demand mechanic service web application
-
-**System Features**
-
-- Role-based authentication (User / Mechanic / Admin)
-- Service workflow management
-- Mechanic dashboard
-- Mobile-first design
-
-**Technologies**
-
-HTML • CSS • JavaScript • PHP • MySQL
+###  HELP ME CAR
+On-demand mechanic service web application  
+- Role-based system (User / Mechanic / Admin)  
+- Service workflow management  
+- Mobile-first dashboard design  
 
 ---
 
-## ❤️ CPR Learning & Simulation System
-Interactive CPR learning and simulation platform
-
-**System Features**
-
-- Scenario-based CPR training
-- Interactive simulation logic
-- Performance tracking dashboard
-- Educational system architecture
-
-**Technologies**
-
-HTML • CSS • JavaScript • PHP • MySQL
+###  CPR Learning & Simulation System
+Interactive CPR training & simulation platform  
+- Scenario-based logic  
+- Dashboard & performance tracking  
+- Educational system architecture  
 
 ---
 
-## 🧮 LIFE CAL – Health Calculation System
-Health metric calculation web system
-
-**System Features**
-
-- BMI calculation
-- Health indicator analysis
-- Database record system
-
-**Technologies**
-
-HTML • CSS • JavaScript • PHP • MySQL
+###  LIFE CAL – Health Calculation System
+Health metrics processing system  
+- BMI & health indicator calculations  
+- Backend logic design  
+- Database integration  
 
 ---
 
-## 🌏 Regional Tourism Website
-Responsive tourism information platform
-
-**System Features**
-
-- Responsive Bootstrap layout
-- Tourism content structure
-- Clean UI design
-
-**Technologies**
-
-HTML • CSS • Bootstrap • JavaScript
+###  Regional Tourism Website
+Responsive tourism platform (Bootstrap-based)  
+- Clean UI design  
+- Structured content system  
 
 ---
 
-# 🛠 Tech Stack
+##  Tech Stack
 
-### Frontend
+###  Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
 </p>
 
-### Backend
+###  Backend
 <p>
-<img src="https://skillicons.dev/icons?i=php,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,mysql" />
 </p>
 
-### IoT / Hardware
+###  IoT & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-### Other Skills
-
-- ESP32 Development
-- Embedded Systems
-- System Analysis & Design
-- Database Design
-- UI/UX System Planning
+- ESP32 Development  
+- Embedded Systems  
+- System Analysis  
+- Database Design  
 
 ---
 
-# 📊 GitHub Stats
+## Certificates-Competitions-Activities
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
-# 🔥 Most Used Languages
+##  Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittiphongkubkub&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 Certificates • Competitions • Activities
-
-🔗  
-https://kittiphongkubkub.github.io/Certificates-Competitions-Activities/
-
----
-
-# 📫 Contact Me
-
-💻 GitHub  
-https://github.com/kittiphongkubkub  
-
-📧 Email  
-660856@hcu.ac.th  
+- GitHub: https://github.com/kittiphongkubkub  
+- Email:  660856@hcu.ac.th
 
 ---
 
 <p align="center">
-💬 <b>"Organized, systematic, and always troubleshooting until it works."</b>
+  <b>"Organized, systematic, and always troubleshooting until it works."</b>
 </p>
