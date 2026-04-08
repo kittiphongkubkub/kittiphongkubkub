@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=250&section=header&text=Kittiphong%20Toadonthong&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Full-Stack%20|%20IoT&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=250&section=header&text=Kittiphong%20Toadonthong&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20IoT%20Innovator&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header Banner" width="100%" />
 
   <br><br>
   
-  <a href="https://github.com/kittiphongkubkub"><img src="https://komarev.com/ghpvc/?username=kittiphongkubkub&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://github.com/kittiphongkubkub"><img src="https://komarev.com/ghpvc/?username=kittiphongkubkub&label=Profile%20Views&color=818cf8&style=for-the-badge" alt="Profile Views" /></a>
   <a href="mailto:660856@hcu.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://kittiphongkubkub.github.io/Certificates-Competitions-Activities/"><img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;IoT+Enthusiast;System+Thinker;Fast+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Apps;Bridging+Software+%26+Hardware;Building+Smart+IoT+Systems;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
