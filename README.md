@@ -22,9 +22,9 @@ Hi there! I am a **Year 3 Computer Science Student** at *Huachiew Chalermprakiet
 I have a huge passion for **Software Architecture** and **Hardware Integration**. 
 
 > <img src="https://cdn.simpleicons.org/target/8b5cf6" width="18" /> **Focus:** Building real-world web apps & bridging software with hardware.  
-> <img src="https://cdn.simpleicons.org/w3c/8b5cf6" width="18" /> **Interests:** Full-Stack Web Development & IoT Integration.  
+> <img src="https://cdn.simpleicons.org/googlechrome/8b5cf6" width="18" /> **Interests:** Full-Stack Web Development & IoT Integration.  
 > <img src="https://cdn.simpleicons.org/starship/8b5cf6" width="18" /> **Strengths:** System thinking & structured development.  
-> <img src="https://cdn.simpleicons.org/nintendoswitch/8b5cf6" width="18" /> **Mindset:** Analyze &rarr; Optimize &rarr; Improve *(Gamer mindset)*.  
+> <img src="https://cdn.simpleicons.org/steam/8b5cf6" width="18" /> **Mindset:** Analyze &rarr; Optimize &rarr; Improve *(Gamer mindset)*.  
 
 </div>
 
@@ -56,10 +56,10 @@ I have a huge passion for **Software Architecture** and **Hardware Integration**
 
 | <img src="https://cdn.simpleicons.org/googlekeep/8b5cf6" width="18" /> Project Name | <img src="https://cdn.simpleicons.org/readme/8b5cf6" width="18" /> Description & Details | <img src="https://cdn.simpleicons.org/codesandbox/8b5cf6" width="18" /> Focus Area |
 | :---: | :--- | :---: |
-| **<img src="https://cdn.simpleicons.org/waze/8b5cf6" width="20" /> HELP ME CAR** | **On-demand mechanic service web application.**<br/>*Features:* Role-based system / Service workflow / Mobile-first UI | <img src="https://cdn.simpleicons.org/javascript/8b5cf6" width="16" /> `Full-Stack`<br/><img src="https://cdn.simpleicons.org/html5/8b5cf6" width="16" /> `Frontend` |
-| **<img src="https://cdn.simpleicons.org/healthkit/8b5cf6" width="20" /> CPR Simulation** | **Interactive CPR training & simulation platform.**<br/>*Features:* Scenario logic / Tracking Dashboard / Education Tech | <img src="https://cdn.simpleicons.org/espressif/8b5cf6" width="16" /> `IoT` <br/><img src="https://cdn.simpleicons.org/nodedotjs/8b5cf6" width="16" /> `Backend` |
+| **<img src="https://cdn.simpleicons.org/waze/8b5cf6" width="20" /> HELP ME CAR** | **On-demand mechanic service web application.**<br/>*Features:* Role-based system / Service workflow / Mobile-first UI | <img src="https://cdn.simpleicons.org/javascript/8b5cf6" width="16" /> `Full-Stack`<br/><img src="https://cdn.simpleicons.org/react/8b5cf6" width="16" /> `Frontend` |
+| **<img src="https://cdn.simpleicons.org/arduino/8b5cf6" width="20" /> CPR Simulation** | **Interactive CPR training & simulation platform.**<br/>*Features:* Scenario logic / Tracking Dashboard / Education Tech | <img src="https://cdn.simpleicons.org/espressif/8b5cf6" width="16" /> `IoT` <br/><img src="https://cdn.simpleicons.org/nodedotjs/8b5cf6" width="16" /> `Backend` |
 | **<img src="https://cdn.simpleicons.org/fitbit/8b5cf6" width="20" /> LIFE CAL** | **Health metrics processing system.**<br/>*Features:* BMI indicators / Backend logic / Database integration | <img src="https://cdn.simpleicons.org/php/8b5cf6" width="16" /> `Backend`<br/><img src="https://cdn.simpleicons.org/mysql/8b5cf6" width="16" /> `Database` |
-| **<img src="https://cdn.simpleicons.org/tripadvisor/8b5cf6" width="20" /> Regional Tourism**| **Responsive regional tourism platform.**<br/>*Features:* Clean UI design / Bootstrap layout / Content management | <img src="https://cdn.simpleicons.org/bootstrap/8b5cf6" width="16" /> `Web UI`<br/><img src="https://cdn.simpleicons.org/css3/8b5cf6" width="16" /> `Frontend` |
+| **<img src="https://cdn.simpleicons.org/tripadvisor/8b5cf6" width="20" /> Regional Tourism**| **Responsive regional tourism platform.**<br/>*Features:* Clean UI design / Bootstrap layout / Content management | <img src="https://cdn.simpleicons.org/bootstrap/8b5cf6" width="16" /> `Web UI`<br/><img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" width="16" /> `Frontend` |
 
 </div>
 
