@@ -56,12 +56,12 @@ and **Hardware Integration**.
 
 <div align="center">
 
-| <img src="https://cdn.simpleicons.org/googlekeep/3b82f6" width="18" /> Project Name | <img src="https://cdn.simpleicons.org/readme/3b82f6" width="18" /> Description & Details | <img src="https://cdn.simpleicons.org/codesandbox/3b82f6" width="18" /> Focus Area |
+| <img src="https://cdn.simpleicons.org/googlekeep/3b82f6" width="18" /> Project Name | <img src="https://cdn.simpleicons.org/readme/3b82f6" width="18" /> Description & Tech Stack | <img src="https://cdn.simpleicons.org/codesandbox/3b82f6" width="18" /> Focus Area |
 | :---: | :--- | :---: |
-| **<img src="https://cdn.simpleicons.org/waze/3b82f6" width="20" /> HELP ME CAR** | **On-demand mechanic service web application.**<br/>*Features:* Role-based system / Service workflow / Mobile-first UI | <img src="https://cdn.simpleicons.org/javascript/3b82f6" width="16" /> `Full-Stack`<br/><img src="https://cdn.simpleicons.org/react/3b82f6" width="16" /> `Frontend` |
-| **<img src="https://cdn.simpleicons.org/arduino/3b82f6" width="20" /> CPR Simulation** | **Interactive CPR training & simulation platform.**<br/>*Features:* Scenario logic / Tracking Dashboard / Education Tech | <img src="https://cdn.simpleicons.org/espressif/3b82f6" width="16" /> `IoT` <br/><img src="https://cdn.simpleicons.org/nodedotjs/3b82f6" width="16" /> `Backend` |
-| **<img src="https://cdn.simpleicons.org/fitbit/3b82f6" width="20" /> LIFE CAL** | **Health metrics processing system.**<br/>*Features:* BMI indicators / Backend logic / Database integration | <img src="https://cdn.simpleicons.org/php/3b82f6" width="16" /> `Backend`<br/><img src="https://cdn.simpleicons.org/mysql/3b82f6" width="16" /> `Database` |
-| **<img src="https://cdn.simpleicons.org/tripadvisor/3b82f6" width="20" /> Regional Tourism**| **Responsive regional tourism platform.**<br/>*Features:* Clean UI design / Bootstrap layout / Content management | <img src="https://cdn.simpleicons.org/bootstrap/3b82f6" width="16" /> `Web UI`<br/><img src="https://cdn.simpleicons.org/tailwindcss/3b82f6" width="16" /> `Frontend` |
+| **<img src="https://cdn.simpleicons.org/waze/3b82f6" width="20" /> HELP ME CAR** | **On-demand mechanic service web application.**<br/>*Features:* Role-based UI / Real-time workflow<br/><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" height="22" /> | <img src="https://cdn.simpleicons.org/javascript/3b82f6" width="14" /> `Full-Stack`<br/><img src="https://cdn.simpleicons.org/react/3b82f6" width="14" /> `Web UI` |
+| **<img src="https://cdn.simpleicons.org/arduino/3b82f6" width="20" /> CPR Simulation** | **Interactive IoT CPR training & simulation platform.**<br/>*Features:* Live hardware feedback / Tracking Dashboard<br/><img src="https://skillicons.dev/icons?i=arduino,cpp,nodejs,react&theme=dark" height="22" /> | <img src="https://cdn.simpleicons.org/espressif/3b82f6" width="14" /> `IoT`<br/><img src="https://cdn.simpleicons.org/nodedotjs/3b82f6" width="14" /> `Backend` |
+| **<img src="https://cdn.simpleicons.org/fitbit/3b82f6" width="20" /> LIFE CAL** | **Health metrics processing & analytics system.**<br/>*Features:* BMI indicators / Multi-user DB integration<br/><img src="https://skillicons.dev/icons?i=php,mysql,bootstrap&theme=dark" height="22" /> | <img src="https://cdn.simpleicons.org/php/3b82f6" width="14" /> `Logic`<br/><img src="https://cdn.simpleicons.org/mysql/3b82f6" width="14" /> `Database` |
+| **<img src="https://cdn.simpleicons.org/tripadvisor/3b82f6" width="20" /> Regional Tourism**| **Responsive regional tourism content platform.**<br/>*Features:* Clean UX layout / Content management<br/><img src="https://skillicons.dev/icons?i=bootstrap,figma,html&theme=dark" height="22" /> | <img src="https://cdn.simpleicons.org/html5/3b82f6" width="14" /> `Frontend`<br/><img src="https://cdn.simpleicons.org/tailwindcss/3b82f6" width="14" /> `Design` |
 
 </div>
 
@@ -70,13 +70,6 @@ and **Hardware Integration**.
 ---
 
 <h2 align="center"><img src="https://cdn.simpleicons.org/github/3b82f6" width="30" /> GitHub Activity & Metrics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittiphongkubkub&layout=compact&theme=dark&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=dark&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&hide_border=true" alt="GitHub Stats" width="48%" />
-</p>
-
-<br>
 
 <p align="center">
   <a href="https://github.com/kittiphongkubkub">
