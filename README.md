@@ -18,8 +18,10 @@
 
 <div align="center">
 
-Hi there! I am a **Year 3 Computer Science Student** at *Huachiew Chalermprakiet University*.
-I have a huge passion for **Software Architecture** and **Hardware Integration**. 
+Hi there! I am a **Year 3 Computer Science Student** <br>
+at *Huachiew Chalermprakiet University*. <br><br>
+I have a huge passion for **Software Architecture** <br>
+and **Hardware Integration**. 
 
 > <img src="https://cdn.simpleicons.org/target/8b5cf6" width="18" /> **Focus:** Building real-world web apps & bridging software with hardware.  
 > <img src="https://cdn.simpleicons.org/googlechrome/8b5cf6" width="18" /> **Interests:** Full-Stack Web Development & IoT Integration.  
