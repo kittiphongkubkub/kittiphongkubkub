@@ -54,18 +54,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/kittiphongkubkub">
-    <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/kittiphongkubkub">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittiphongkubkub&theme=dark&background=0D1117&hide_border=true" alt="GitHub Streak" height="170" />
-  </a>
-</p>
-
----
 
 <br>
 
