@@ -72,6 +72,13 @@ and **Hardware Integration**.
 <h2 align="center"><img src="https://cdn.simpleicons.org/github/3b82f6" width="30" /> GitHub Activity & Metrics</h2>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittiphongkubkub&layout=compact&theme=dark&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=dark&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://github.com/kittiphongkubkub">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittiphongkubkub&theme=dark&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=a3a3a3&hide_border=true" alt="GitHub Streak" width="60%" />
   </a>
