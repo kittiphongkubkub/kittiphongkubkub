@@ -9,12 +9,7 @@
 
   <br><br>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-3B82F6?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/IoT%20Enthusiast-3B82F6?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/System%20Thinker-3B82F6?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Fast%20Learner-3B82F6?style=for-the-badge&logoColor=white" />
-  </p>
+  <img src="animated_titles.svg" width="600" alt="Animated Titles" />
 </div>
 
 ---
