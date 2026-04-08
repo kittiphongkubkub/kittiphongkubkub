@@ -1,0 +1,35 @@
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .terminal-bg { fill: #0d1117; stroke: #3b82f6; stroke-width: 1.5px; opacity: 0.95; }
+    .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #6b7280; text-anchor: middle; font-weight: bold; }
+    .cmd { font-family: 'Consolas', 'Courier New', monospace; font-size: 16px; font-weight: bold; fill: #3b82f6; }
+    .code { font-family: 'Consolas', 'Courier New', monospace; font-size: 16px; }
+    .str { fill: #60a5fa; }
+    .punct { fill: #9ca3af; }
+    .bracket { fill: #d1d5db; }
+  </style>
+  
+  <!-- Background -->
+  <rect width="600" height="120" rx="10" class="terminal-bg" />
+  
+  <!-- Mac Window Buttons -->
+  <circle cx="25" cy="25" r="6" fill="#ef4444"/>
+  <circle cx="45" cy="25" r="6" fill="#f59e0b"/>
+  <circle cx="65" cy="25" r="6" fill="#22c55e"/>
+  
+  <!-- Window Title -->
+  <text x="300" y="29" class="title">kittiphong_profile ~ bash</text>
+  
+  <line x1="0" y1="45" x2="600" y2="45" stroke="#1f2937" stroke-width="1.5" />
+  
+  <!-- Terminal Content -->
+  <text x="25" y="75" class="cmd"><tspan fill="#22c55e">➜</tspan> ~ kittiphong.getRoles()</text>
+  
+  <text x="25" y="105" class="code">
+    <tspan class="bracket">[</tspan>
+    <tspan class="str">"Full-Stack Dev"</tspan><tspan class="punct">,</tspan> 
+    <tspan class="str">"IoT Enthusiast"</tspan><tspan class="punct">,</tspan> 
+    <tspan class="str">"System Thinker"</tspan>
+    <tspan class="bracket">]</tspan>
+  </text>
+</svg>

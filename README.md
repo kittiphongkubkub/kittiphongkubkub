@@ -9,7 +9,7 @@
 
   <br><br>
 
-  <img src="animated_titles.svg" width="600" alt="Animated Titles" />
+  <img src="terminal_roles.svg" width="600" alt="Terminal Roles" />
 </div>
 
 ---
