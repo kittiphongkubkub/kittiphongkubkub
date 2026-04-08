@@ -9,7 +9,12 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;IoT+Enthusiast;System+Thinker;Fast+Learner" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-3B82F6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/IoT%20Enthusiast-3B82F6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/System%20Thinker-3B82F6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fast%20Learner-3B82F6?style=for-the-badge&logoColor=white" />
+  </p>
 </div>
 
 ---
@@ -25,7 +30,7 @@ and **Hardware Integration**.
 
 > <img src="https://cdn.simpleicons.org/target/3b82f6" width="18" /> **Focus:** Building real-world web apps & bridging software with hardware.  
 > <img src="https://cdn.simpleicons.org/googlechrome/3b82f6" width="18" /> **Interests:** Full-Stack Web Development & IoT Integration.  
-> <img src="https://cdn.simpleicons.org/starship/3b82f6" width="18" /> **Strengths:** System thinking & structured development.  
+> <img src="https://cdn.simpleicons.org/electron/3b82f6" width="18" /> **Strengths:** System thinking & structured development.  
 > <img src="https://cdn.simpleicons.org/steam/3b82f6" width="18" /> **Mindset:** Analyze &rarr; Optimize &rarr; Improve *(Gamer mindset)*.  
 
 </div>
