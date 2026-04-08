@@ -23,10 +23,12 @@ at *Huachiew Chalermprakiet University*. <br><br>
 I have a huge passion for **Software Architecture** <br>
 and **Hardware Integration**. 
 
-> <img src="https://cdn.simpleicons.org/target/3b82f6" width="18" /> **Focus:** Building real-world web apps & bridging software with hardware.  
-> <img src="https://cdn.simpleicons.org/googlechrome/3b82f6" width="18" /> **Interests:** Full-Stack Web Development & IoT Integration.  
-> <img src="https://cdn.simpleicons.org/electron/3b82f6" width="18" /> **Strengths:** System thinking & structured development.  
-> <img src="https://cdn.simpleicons.org/steam/3b82f6" width="18" /> **Mindset:** Analyze &rarr; Optimize &rarr; Improve *(Gamer mindset)*.  
+> <img src="https://cdn.simpleicons.org/target/3b82f6" width="16" /> **Focus:** Building real-world web apps & bridging software with hardware.  
+> <img src="https://cdn.simpleicons.org/googlechrome/3b82f6" width="16" /> **Interests:** Full-Stack Web Development & IoT Integration.  
+> <img src="https://cdn.simpleicons.org/gitbook/3b82f6" width="16" /> **Currently Learning:** Cloud Architecture & Advanced System Design.  
+> <img src="https://cdn.simpleicons.org/electron/3b82f6" width="16" /> **Strengths:** System thinking & structured development.  
+> <img src="https://cdn.simpleicons.org/steam/3b82f6" width="16" /> **Mindset:** Analyze &rarr; Optimize &rarr; Improve *(Gamer mindset)*.  
+> <img src="https://cdn.simpleicons.org/discord/3b82f6" width="16" /> **Ask me about:** ESP32 Frameworks, Backend Logic, or Web UI Layouts!  
 
 </div>
 
