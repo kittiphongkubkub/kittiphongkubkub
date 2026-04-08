@@ -58,10 +58,10 @@
 
 <p align="center">
   <a href="https://github.com/kittiphongkubkub">
-    <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="GitHub Stats" height="170" />
   </a>
   <a href="https://github.com/kittiphongkubkub">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittiphongkubkub&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittiphongkubkub&theme=dark&background=0D1117&hide_border=true" alt="GitHub Streak" height="170" />
   </a>
 </p>
 
