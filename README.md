@@ -27,7 +27,7 @@
       • 🎮 <b>Mindset:</b> Analyze &rarr; Optimize &rarr; Improve <i>(Gamer mindset)</i>.
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=300&lines=💻+Full-Stack;📡+IoT+Systems;🧠+System+Design;☕+Code+%2B+Coffee" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=300&lines=💻+Full-Stack;📡+IoT+Systems;🧠+System+Design;🚀+Fast+Learner" alt="Typing SVG" />
     </td>
   </tr>
 </table>
@@ -75,14 +75,12 @@
 <h2 align="center">📊 GitHub Activity & Metrics</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kittiphongkubkub&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/kittiphongkubkub">
+    <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="GitHub Stats" height="170" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kittiphongkubkub&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=a3a3a3" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittiphongkubkub&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=a3a3a3" height="150" alt="Top Langs" />
+  <a href="https://github.com/kittiphongkubkub">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittiphongkubkub&theme=dark&background=0D1117&hide_border=true" alt="GitHub Streak" height="170" />
+  </a>
 </p>
 
 <br>
